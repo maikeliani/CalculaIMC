@@ -1,0 +1,15 @@
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.exe
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.deps.json
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.runtimeconfig.json
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.dll
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.pdb
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.csproj.AssemblyReference.cache
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.AssemblyInfo.cs
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.dll
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\refint\CalculaIMC.dll
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.pdb
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.genruntimeconfig.cache
+C:\Users\adm\source\repos\CalculaIMC\CalculaIMC\obj\Debug\net6.0\ref\CalculaIMC.dll
